@@ -25,7 +25,7 @@ end
 
 def first_student_by_method
   # Write a solution that returns the first student using the built in .first method
-  student_names.first
+  STUDENTW.first
 end
 
 def last_student_by_method
